@@ -98,7 +98,7 @@ Built using Streamlit.
 ---
 ##  Project Structure
 ```
-housing-ml-app/
+AIWebPredictionAppUsingPython/
 │
 ├── Housing.csv
 ├── Data_Preprocessing_Model_Training.ipynb
@@ -161,7 +161,7 @@ Input:
 
 Output:
 
-* Predicted Price: ₹ 75,00,000 (example)
+* Predicted Price: 6,235,301 (example)
 
 ---
 
