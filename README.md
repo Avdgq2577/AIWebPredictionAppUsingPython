@@ -98,7 +98,7 @@ Built using Streamlit.
 ---
 ##  Project Structure
 ```
-housing-ml-app/
+AIWebPredictionAppUsingPython/
 │
 ├── Housing.csv
 ├── Data_Preprocessing_Model_Training.ipynb
@@ -107,7 +107,6 @@ housing-ml-app/
 ├── scaler.pkl
 ├── encoders.pkl
 ├── requirements.txt
-├── .gitignore
 └── README.md
 ```
 
@@ -118,8 +117,8 @@ housing-ml-app/
 ### 1. Clone Repository
 
 ```
-git clone <your-repo-link>
-cd housing-ml-app
+git clone https://github.com/Avdgq2577/AIWebPredictionAppUsingPython.git
+cd /AIWebPredictionAppUsingPython
 ```
 
 ### 2. Create Virtual Environment
@@ -161,7 +160,7 @@ Input:
 
 Output:
 
-* Predicted Price: ₹ 75,00,000 (example)
+* Predicted Price: 6,235,301 (example)
 
 ---
 
