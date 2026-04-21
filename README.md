@@ -117,7 +117,7 @@ AIWebPredictionAppUsingPython/
 ### 1. Clone Repository
 
 ```
-git clone https://github.com/Avdgq2577/AIWebPredictionAppUsingPython.git
+git clone --depth 1 https://github.com/Avdgq2577/AIWebPredictionAppUsingPython.git
 cd /AIWebPredictionAppUsingPython
 ```
 
