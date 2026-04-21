@@ -119,7 +119,7 @@ housing-ml-app/
 
 ```
 git clone https://github.com/Avdgq2577/AIWebPredictionAppUsingPython.git
-cd housing-ml-app
+cd /AIWebPredictionAppUsingPython
 ```
 
 ### 2. Create Virtual Environment
