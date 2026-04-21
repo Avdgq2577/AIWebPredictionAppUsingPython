@@ -1,9 +1,0 @@
-__pycache__/
-*.py[cod]
-*$py.class
-*.log
-.vscode/
-.idea/
-.streamlit/
-.env
-.cache/
