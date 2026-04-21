@@ -118,7 +118,7 @@ housing-ml-app/
 ### 1. Clone Repository
 
 ```
-git clone <your-repo-link>
+git clone https://github.com/Avdgq2577/AIWebPredictionAppUsingPython.git
 cd housing-ml-app
 ```
 
