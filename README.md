@@ -1,5 +1,21 @@
 # 🏠 Housing Price Prediction Web App
 ### AIWebPredictionAppUsingPython
+## 📸 Screenshots
+
+### 🧾 Input Form
+
+Below is the user input interface where features like area, bedrooms, and amenities are entered:
+
+![Input Screenshot](screenshots/input.png)
+
+---
+
+### 📊 Prediction Output
+
+After clicking the **Predict** button, the model returns the estimated house price:
+
+![Output Screenshot](screenshots/output.png)
+
 
 ##  Overview
 
