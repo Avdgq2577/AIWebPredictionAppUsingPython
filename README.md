@@ -107,7 +107,6 @@ AIWebPredictionAppUsingPython/
 ├── scaler.pkl
 ├── encoders.pkl
 ├── requirements.txt
-├── .gitignore
 └── README.md
 ```
 
